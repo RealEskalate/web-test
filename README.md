@@ -19,9 +19,10 @@ Details can be found here `https://v2.jokeapi.dev`
 3. **Create a page that displays a list of jokes**, When no specific filter is selected, show a random set of 20 jokes.
 4. **Implement a search functionality** that enables users to search for jokes.
 5. **Implement a Filtering functionality** by category based on selected categories.
-6. Display **loading** and **error** states and other important status messages users many want to see.
+6. Display **loading** and **error** states and other important status messages users may want to see.
 7. Use either **Redux** or **Redux Toolkit** for state management. Save the fetched results in the store and render them appropriately.
 8. Use a UI library (Ex. Material UI, TailwindCSS ...)
+9. It is highly recommended to use Typescript.
 
 ### Optional
 
